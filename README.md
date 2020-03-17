@@ -1,3 +1,5 @@
+# About
+
 This is a tutorial project demonstrating how to do routing using state and React Router.
 
 It was created by Julian Martinez and is released under the MIT license
@@ -5,6 +7,8 @@ It was created by Julian Martinez and is released under the MIT license
 You can read more React tutorials, and more about Julian, at [reactever.com](https://www.reactever.com).
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+See the blog post about this: [How to Do Routing Using Only React State](https://www.reactever.com/react-state-routing).
 
 In the project directory, you can run:
 
